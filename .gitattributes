@@ -1,1 +1,2 @@
-unreal_basic/Content/BeachScene/HDRI_Backdrop/HDRI_Sunrise.uasset filter=lfs diff=lfs merge=lfs -text
+unreal_basic/Content/Resource/HDR/HDRI_Backdrop/HDRI_Sunrise.uasset filter=lfs diff=lfs merge=lfs -text
+unreal_basic/Content/BeachScene/HDRI_Backdrop/Meshes/EnviroDome.uasset filter=lfs diff=lfs merge=lfs -text
