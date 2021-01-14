@@ -16,16 +16,10 @@
 		{
 			"Name": "CascadeToNiagaraConverter",
 			"Enabled": true
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
 		},
 		{
 			"Name": "HDRIBackdrop",
 			"Enabled": true
-=======
->>>>>>> a708267f5e616825429894ece16562bae5a9c873
->>>>>>> Stashed changes
 		}
 	]
 }
