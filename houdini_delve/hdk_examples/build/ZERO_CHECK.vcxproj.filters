@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\DEV_PROJECT\dev-repository\demo-unreal\houdini_delve\hdk_examples\build\CMakeFiles\74be29838a7ae2f05f67a20f28173c61\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5DB5C7D7-17A8-36F7-94D1-EA980F2EFBB3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

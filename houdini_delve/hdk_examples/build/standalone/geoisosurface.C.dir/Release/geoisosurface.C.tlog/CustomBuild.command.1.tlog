@@ -1,0 +1,10 @@
+^C:\DEV_PROJECT\DEV-REPOSITORY\DEMO-UNREAL\HOUDINI_DELVE\HDK_EXAMPLES\STANDALONE\CMAKELISTS.TXT
+setlocal
+C:\Users\Aaron\scoop\apps\cmake\3.17.3\bin\cmake.exe -SC:/DEV_PROJECT/dev-repository/demo-unreal/houdini_delve/hdk_examples -BC:/DEV_PROJECT/dev-repository/demo-unreal/houdini_delve/hdk_examples/build --check-stamp-file C:/DEV_PROJECT/dev-repository/demo-unreal/houdini_delve/hdk_examples/build/standalone/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
