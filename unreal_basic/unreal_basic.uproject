@@ -28,6 +28,10 @@
 		{
 			"Name": "LensDistortion",
 			"Enabled": true
+		},
+		{
+			"Name": "PixelStreaming",
+			"Enabled": true
 		}
 	]
 }
